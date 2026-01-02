@@ -22,8 +22,8 @@ public class ternary_ex {
         System.out.println(min);
 
         int num = 13;
-        String result = (num%2 ==0) ? "even" : "odd";
-        System.out.println(result);
+        String result2 = (num%2 ==0) ? "even" : "odd";
+        System.out.println(result2);
 
     }
 }
